@@ -4,7 +4,7 @@
 
 <br>
 
-<h3> O peojeto em questão maipula datas, adcionando mais ou menos dias, meses ou anos.</h3>
+<h3> O projeto em questão maipula datas, adcionando mais ou menos dias, meses ou anos.</h3>
 
 <hr>
 <br>
